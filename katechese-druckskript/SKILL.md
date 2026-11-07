@@ -1,6 +1,6 @@
 ---
 name: katechese-druckskript
-description: Katechese-Skript (.doc/.docx) in ein kurzes Druck-Skript für Joachim (Jo) umwandeln: nur das Theater, seine Rolle groß, Teresa klein, Wichtiges fett.
+description: "Katechese-Skript (.doc/.docx) in ein kurzes Druck-Skript für Joachim (Jo) umwandeln - nur das Theater, seine Rolle groß, Teresa klein, Wichtiges fett."
 ---
 
 # Katechese-Druckskript für Joachim
